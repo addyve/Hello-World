@@ -1,0 +1,14 @@
+C:\WIP\HelloWorld\HelloWorldTests\bin\Debug\HelloWorldTests.dll
+C:\WIP\HelloWorld\HelloWorldTests\bin\Debug\HelloWorldTests.pdb
+C:\WIP\HelloWorld\HelloWorldTests\bin\Debug\HelloWorld.exe
+C:\WIP\HelloWorld\HelloWorldTests\bin\Debug\HelloWorld.pdb
+C:\WIP\HelloWorld\HelloWorldTests\obj\Debug\HelloWorldTests.csprojResolveAssemblyReference.cache
+C:\WIP\HelloWorld\HelloWorldTests\obj\Debug\HelloWorldTests.dll
+C:\WIP\HelloWorld\HelloWorldTests\obj\Debug\HelloWorldTests.pdb
+C:\WIP\Hello\HelloWorld\HelloWorldTests\bin\Debug\HelloWorldTests.dll
+C:\WIP\Hello\HelloWorld\HelloWorldTests\bin\Debug\HelloWorldTests.pdb
+C:\WIP\Hello\HelloWorld\HelloWorldTests\bin\Debug\HelloWorld.exe
+C:\WIP\Hello\HelloWorld\HelloWorldTests\bin\Debug\HelloWorld.pdb
+C:\WIP\Hello\HelloWorld\HelloWorldTests\obj\Debug\HelloWorldTests.csprojResolveAssemblyReference.cache
+C:\WIP\Hello\HelloWorld\HelloWorldTests\obj\Debug\HelloWorldTests.dll
+C:\WIP\Hello\HelloWorld\HelloWorldTests\obj\Debug\HelloWorldTests.pdb

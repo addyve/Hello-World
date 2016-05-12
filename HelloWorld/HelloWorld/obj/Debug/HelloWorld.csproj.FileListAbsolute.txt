@@ -1,0 +1,12 @@
+C:\WIP\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\WIP\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\WIP\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\WIP\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+C:\WIP\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\WIP\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\WIP\Hello\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\WIP\Hello\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\WIP\Hello\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\WIP\Hello\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\WIP\Hello\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\WIP\Hello\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
